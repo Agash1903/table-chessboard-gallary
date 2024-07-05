@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+table,th,td{
+    border: solid;
+    border-collapse: collapse;
+    
+}
+.tab{
+    padding: 10px;
+    margin: 70px 460px;
+    font-size: 20px;
+   
+}
